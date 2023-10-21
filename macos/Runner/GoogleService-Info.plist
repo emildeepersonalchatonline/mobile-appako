@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>440548027027-b7f1f753475fc3ki087s4affb6qc71uj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.440548027027-b7f1f753475fc3ki087s4affb6qc71uj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>440548027027-1oajol0pi34no2s64cgva5r0cma2o577.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDn2FUgTDa0yqLMyET_VwTlVDZG5zZCuPU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>440548027027</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mobileappaitek.io</string>
+	<key>PROJECT_ID</key>
+	<string>darkhorse-6a013</string>
+	<key>STORAGE_BUCKET</key>
+	<string>darkhorse-6a013.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:440548027027:ios:061652f115e4e69a9f7b66</string>
+	<key>DATABASE_URL</key>
+	<string>https://darkhorse-6a013-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
